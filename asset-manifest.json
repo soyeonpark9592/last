@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/last/static/css/main.c80aead5.css",
+    "main.js": "/last/static/js/main.f8e4c508.js",
+    "static/js/787.3ea87880.chunk.js": "/last/static/js/787.3ea87880.chunk.js",
+    "static/media/AnyConv.com__NanumSquareR.woff": "/last/static/media/AnyConv.com__NanumSquareR.20f531de5e8d00cc4c15.woff",
+    "static/media/greenbanner.jpeg": "/last/static/media/greenbanner.6f9193bb31df9581d030.jpeg",
+    "index.html": "/last/index.html",
+    "main.c80aead5.css.map": "/last/static/css/main.c80aead5.css.map",
+    "main.f8e4c508.js.map": "/last/static/js/main.f8e4c508.js.map",
+    "787.3ea87880.chunk.js.map": "/last/static/js/787.3ea87880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80aead5.css",
+    "static/js/main.f8e4c508.js"
+  ]
+}
